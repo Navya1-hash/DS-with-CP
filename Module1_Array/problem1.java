@@ -1,4 +1,4 @@
- Online Java Compiler
+Online Java Compiler
 // Use this editor to write, compile and run your Java code online
 
 class Main {
@@ -11,7 +11,7 @@ class Main {
             System.out.println(num[i]);
         }
         
-        String[] names = {"jeet","raj","sunil"};
+        String[] names = {"siri","navya","sridevi"};
         for(int i=0;i<names.length;i++){
             System.out.println(names[i]);
         }
@@ -22,7 +22,7 @@ class Main {
             System.out.println(num1[i]);
         }
         
-        String[] names1 = new String[] {"J","raj","sunil"};
+        String[] names1 = new String[] {"navya","sirisha","nishi"};
         for(int i=0;i<names1.length;i++){
             System.out.println(names1[i]);
         }
